@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Incremental Counter</string>
+    <string name="Initial">0</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="Int">Integer Only</string>
+</resources>
